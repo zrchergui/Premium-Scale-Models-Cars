@@ -1,0 +1,1 @@
+Ce projet avait pour objectif d'analyser les données d'une entreprise qui vend des modèles réduits et des répliques haut de gamme de véhicules et d'objets de collection, destinés aux collectionneurs et aux amateurs d'objets miniatures. L'analyse a été réalisée en utilisant MySQL pour la gestion des données et Power BI pour la visualisation et l'exploration des résultats.
